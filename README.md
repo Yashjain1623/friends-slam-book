@@ -9,6 +9,11 @@ This project is a digital slam book that allows users to manage and display a li
 - **Favorites**: Mark people as favorites and filter the list based on all, favorite, or non-favorite people.
 - **Birthday Reminder**: Automatically check for birthdays every 30 seconds and send a "Happy Birthday" message to a Discord or Slack webhook.
 
+### Deployed Application
+You can access the deployed application using the following link:
+[Deployed Application](https://666003fb6f35feb9c8c3d1e1--dynamic-sunshine-a3a353.netlify.app/)
+
+
 ## Getting Started
 
 ### Prerequisites
