@@ -36,10 +36,12 @@ const AddPersonForm = ({ addPerson }) => {
           <div>
             <input
               className="block w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-              type="text"
+              type="tel"
+              name="telphone"
+              pattern="[0-9]{10}"
               value={contact}
               onChange={(e) => setContact(e.target.value)}
-              placeholder="Contact"
+              placeholder="10-digit Contact"
               required
             />
           </div>
